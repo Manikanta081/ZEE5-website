@@ -1,0 +1,44 @@
+.man{
+display: flex;
+justify-content: space-around;
+}
+
+#nan{
+    display: inline-flex;
+    color: aliceblue;
+    justify-content: space-around;
+}
+#rak{
+    color: aliceblue;
+    display: flex;
+}
+#ram{
+    background-color: azure;
+}
+#rav{
+    color: black;
+    background-color: white;
+}
+#rab{
+    display:flex;
+    border-radius: 30px;
+    border: 4px solid black;
+    height: 150px;
+    width: 250px;
+}
+#rab:hover{
+transform: scale(1.1);
+z-index: 10;
+}
+#hrm:hover{
+transform: scale(0.8);
+z-index: 10;
+}
+#hrm{
+    display: flex;
+    border-radius: 40px;
+    border: 4px solid black;
+    height: 150px;
+    width: 250px;
+
+}
